@@ -1,0 +1,7 @@
+## Interface: 110000
+## Title: EarnOnGathering
+## Author: AlLixAI
+## Version: 1.0
+## IconTexture: Interface\AddOns\EarnOnGathering\256.tga
+## Notes: An addon that shows how much gold you have earned from gathering professions (herbs, ore, leather, and general loot), with prices based on the Auctionator addon.
+EarnOnGathering.lua
