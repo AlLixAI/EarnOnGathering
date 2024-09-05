@@ -176,6 +176,8 @@ local function OnEvent(self, event, ...)
     end
 end
 
+
+
 -- Регистрируем событие открытия лута
 frame:RegisterEvent("LOOT_READY")
 frame:SetScript("OnEvent", OnEvent)
